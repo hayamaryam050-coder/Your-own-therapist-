@@ -1,0 +1,26 @@
+body {
+  font-family: Arial;
+  background: #fff0f5;
+  text-align: center;
+}
+
+input, textarea {
+  width: 80%;
+  margin: 8px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background: pink;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+#envelope {
+  font-size: 24px;
+  cursor: pointer;
+  margin-top: 50px;
+}
